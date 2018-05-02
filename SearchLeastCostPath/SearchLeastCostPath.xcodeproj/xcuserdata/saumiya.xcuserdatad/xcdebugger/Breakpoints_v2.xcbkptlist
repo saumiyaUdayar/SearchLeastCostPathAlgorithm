@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchLeastCostPathTests/LeastCostPathViewControllerTests.swift"
+            timestampString = "546759224.915596"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testViewControllerInitialized()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchLeastCostPathTests.LeastCostPathViewControllerTests.testViewControllerInitialized() -&gt; ()"
+                  moduleName = "SearchLeastCostPathTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saumiya/Downloads/SearchLeastCostPath/SearchLeastCostPathTests/LeastCostPathViewControllerTests.swift"
+                  timestampString = "546746645.2334"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "353">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #3 : @autoclosure () throws -&gt; Swift.Optional&lt;Any&gt; in SearchLeastCostPathTests.LeastCostPathViewControllerTests.testViewControllerInitialized() -&gt; ()"
+                  moduleName = "SearchLeastCostPathTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saumiya/Downloads/SearchLeastCostPath/SearchLeastCostPathTests/LeastCostPathViewControllerTests.swift"
+                  timestampString = "546746645.23534"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

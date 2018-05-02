@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchLeastCostPathUITests/SearchLeastCostPathUITests.swift"
+            timestampString = "546985858.7207921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "testFindLeastCostPathActionInputNoPathExist()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SearchLeastCostPathUITests.SearchLeastCostPathUITests.testFindLeastCostPathActionInputNoPathExist() -&gt; ()"
+                  moduleName = "SearchLeastCostPathUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudaiyar/SearchLeastCostPathAlgorithm/SearchLeastCostPath/SearchLeastCostPathUITests/SearchLeastCostPathUITests.swift"
+                  timestampString = "546985660.121376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2844">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.String in SearchLeastCostPathUITests.SearchLeastCostPathUITests.testFindLeastCostPathActionInputNoPathExist() -&gt; ()"
+                  moduleName = "SearchLeastCostPathUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudaiyar/SearchLeastCostPathAlgorithm/SearchLeastCostPath/SearchLeastCostPathUITests/SearchLeastCostPathUITests.swift"
+                  timestampString = "546985660.122983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.String in SearchLeastCostPathUITests.SearchLeastCostPathUITests.testFindLeastCostPathActionInputNoPathExist() -&gt; ()"
+                  moduleName = "SearchLeastCostPathUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudaiyar/SearchLeastCostPathAlgorithm/SearchLeastCostPath/SearchLeastCostPathUITests/SearchLeastCostPathUITests.swift"
+                  timestampString = "546985660.12446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

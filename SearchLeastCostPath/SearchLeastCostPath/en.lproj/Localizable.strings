@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  SearchLeastCostPath
+
+  Created by Saumiya on 28/04/18.
+  Copyright © 2018 Saumiya. All rights reserved.
+*/
+"Cancel" = "Cancel";
+"Path through grid:" = "Path through grid:";
+"Total cost:" = "Total cost:";
+"Path Sequence:" = "Path Sequence:";
+"YES" = "YES";
+"NO" = "NO";
+"Invalid characters" = "Invalid characters";
+"Matrix size incorrect" = "Matrix size incorrect";
+"Matrix cannot be empty" = "Matrix cannot be empty";
+
